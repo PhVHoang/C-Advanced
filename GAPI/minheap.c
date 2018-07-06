@@ -1,5 +1,8 @@
 #include "minheap.h"
-
+/*
+ * Fucking copy
+ * Fucking convention
+ */
 struct heapStruct* initHeap() {
 
     struct heapStruct* h;
